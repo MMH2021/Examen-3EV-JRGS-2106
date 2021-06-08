@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen3EV", "ClassLibrary1\Examen3EV.csproj", "{103E5183-C167-47C0-A02A-D4D7409B8589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D611585D-C9FD-4430-8D6B-B3DB4EE009FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNotas", "UnitTestProject1\TestNotas.csproj", "{D611585D-C9FD-4430-8D6B-B3DB4EE009FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
